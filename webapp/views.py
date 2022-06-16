@@ -5,3 +5,7 @@ from django.shortcuts import render
 
 def text_view(request):
     pass
+
+
+
+
